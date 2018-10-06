@@ -11,6 +11,10 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+
+
+//Routes for datacatlog
+Route::get('/catalogsindex',  'CatalogController@index');
+Route::get('/',  'CatalogController@index');
+Route::get('/catalogs',  'CatalogController@getstate');
+Route::get('/singlecatalog/{id}',  'CatalogController@show');

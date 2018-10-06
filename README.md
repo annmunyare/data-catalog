@@ -10,8 +10,9 @@
 \*Switch to the URL: http://localhost:8000/datacatalogs
 
 ####Requirements
+*Laravel
 *Composer
-*XAMPP
+\*XAMPP
 \*MySql should be in your path
 
 #### By _**Ann Munyare**_
