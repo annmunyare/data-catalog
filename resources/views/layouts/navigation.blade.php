@@ -24,10 +24,6 @@
             <a class="nav-link" href="/catalogsindex">Data Catalog</a>
          </li>
          
-         <li class="nav-item">
-            <a class="nav-link" href="/reports">Reports</a>
-         </li>
-
       </ul>
    </div>
 </nav>

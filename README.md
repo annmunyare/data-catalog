@@ -17,8 +17,8 @@
 -   Composer
 -   XAMPP
 
-#### By **Ann Munyare**
-
 ## Technologies Used
 
 _PHP Laravel, Bootstrap_
+
+#### By **Ann Munyare**
