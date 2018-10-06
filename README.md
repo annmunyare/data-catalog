@@ -1,21 +1,23 @@
-# \_Data_Catalog
+# Data_Catalog
 
-#### \_This is a program that consumes and presents data from the World Bank Data Catalog API
+## This is a program that consumes and presents data from the World Bank Data Catalog API
 
-####Installation
-*Clone the repository.
-*Type this command: composer update
-*Configure the database in the .env file.
-*Start the Laravel development server: php artisan serve
-\*Switch to the URL: http://localhost:8000/datacatalogs
+## Installation
 
-####Requirements
-*Laravel
-*Composer
-\*XAMPP
-\*MySql should be in your path
+-   Clone the repository.
+-   Type this command: composer update
+-   Configure the database in the .env file.
+-   Start the Laravel development server: php artisan serve
 
-#### By _**Ann Munyare**_
+*   Switch to the URL: http://localhost:8000/catalogsindex
+
+## Requirements
+
+-   Laravel
+-   Composer
+-   XAMPP
+
+#### By **Ann Munyare**
 
 ## Technologies Used
 
