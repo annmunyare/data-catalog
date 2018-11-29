@@ -18,3 +18,6 @@ Route::get('/catalogsindex',  'CatalogController@index');
 Route::get('/',  'CatalogController@index');
 Route::get('/catalogs',  'CatalogController@getstate');
 Route::get('/singlecatalog/{id}',  'CatalogController@show');
+
+Route::get('/groups',  'ICPAKController@getstate');
+// Route::get('/ICPAK',  'ICPAKController@index');

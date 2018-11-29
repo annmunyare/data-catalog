@@ -21,7 +21,7 @@
       <ul class="navbar-nav">
    
          <li class="nav-item">
-            <a class="nav-link" href="/catalogsindex">Data Catalog</a>
+            <a class="nav-link" href="/catalogsindex">ICPAK</a>
          </li>
          
       </ul>
